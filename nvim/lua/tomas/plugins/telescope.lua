@@ -1,5 +1,5 @@
 return {
-  "nvim-elescope/telescope.nvim",
+  "nvim-telescope/telescope.nvim",
   event = "VimEnter",
   branch = "0.1.x",
   dependencies = {
